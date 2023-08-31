@@ -7,7 +7,6 @@ import (
 )
 
 
-
 func Home(w http.ResponseWriter, r *http.Request) {
 	render.RenderTemplate(w, "home.page.html")
 }
