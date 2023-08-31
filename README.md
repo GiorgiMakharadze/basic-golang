@@ -28,7 +28,7 @@ Main Packages and Technologies Used
 
 ## Running the Program
 
-1. Clone this repository: git clone `https://github.com/GiorgiMakharadze/basic-golang.git`
+1. Clone this repository: git clone `https://github.com/GiorgiMakharadze/web-application-starter-golang.git`
 2. Navigate to the project directory.
 3. Install dependencies: `go get ./...`
 4. `html/template` for HTML templates
